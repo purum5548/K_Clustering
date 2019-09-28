@@ -1,0 +1,11 @@
+C:\Users\dumca\source\repos\K_Cluster\K_Cluster\bin\Release\K_Cluster.exe.config
+C:\Users\dumca\source\repos\K_Cluster\K_Cluster\bin\Release\K_Cluster.exe
+C:\Users\dumca\source\repos\K_Cluster\K_Cluster\bin\Release\K_Cluster.pdb
+C:\Users\dumca\source\repos\K_Cluster\K_Cluster\bin\Release\sfml-audio.dll
+C:\Users\dumca\source\repos\K_Cluster\K_Cluster\bin\Release\sfml-graphics.dll
+C:\Users\dumca\source\repos\K_Cluster\K_Cluster\bin\Release\sfml-system.dll
+C:\Users\dumca\source\repos\K_Cluster\K_Cluster\bin\Release\sfml-window.dll
+C:\Users\dumca\source\repos\K_Cluster\K_Cluster\obj\Release\K_Cluster.csproj.CoreCompileInputs.cache
+C:\Users\dumca\source\repos\K_Cluster\K_Cluster\obj\Release\K_Cluster.csproj.CopyComplete
+C:\Users\dumca\source\repos\K_Cluster\K_Cluster\obj\Release\K_Cluster.exe
+C:\Users\dumca\source\repos\K_Cluster\K_Cluster\obj\Release\K_Cluster.pdb

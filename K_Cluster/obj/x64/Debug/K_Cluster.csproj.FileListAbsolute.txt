@@ -1,0 +1,12 @@
+C:\Users\dumca\source\repos\K_Cluster\K_Cluster\bin\x64\Debug\K_Cluster.exe.config
+C:\Users\dumca\source\repos\K_Cluster\K_Cluster\bin\x64\Debug\K_Cluster.exe
+C:\Users\dumca\source\repos\K_Cluster\K_Cluster\bin\x64\Debug\K_Cluster.pdb
+C:\Users\dumca\source\repos\K_Cluster\K_Cluster\bin\x64\Debug\sfml-audio.dll
+C:\Users\dumca\source\repos\K_Cluster\K_Cluster\bin\x64\Debug\sfml-graphics.dll
+C:\Users\dumca\source\repos\K_Cluster\K_Cluster\bin\x64\Debug\sfml-system.dll
+C:\Users\dumca\source\repos\K_Cluster\K_Cluster\bin\x64\Debug\sfml-window.dll
+C:\Users\dumca\source\repos\K_Cluster\K_Cluster\obj\x64\Debug\K_Cluster.csproj.CoreCompileInputs.cache
+C:\Users\dumca\source\repos\K_Cluster\K_Cluster\obj\x64\Debug\K_Cluster.csproj.CopyComplete
+C:\Users\dumca\source\repos\K_Cluster\K_Cluster\obj\x64\Debug\K_Cluster.exe
+C:\Users\dumca\source\repos\K_Cluster\K_Cluster\obj\x64\Debug\K_Cluster.pdb
+C:\Users\dumca\source\repos\K_Cluster\K_Cluster\obj\x64\Debug\K_Cluster.csprojAssemblyReference.cache
